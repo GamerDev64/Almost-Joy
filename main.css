@@ -4,3 +4,12 @@ body{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.button{
+    border-radius: 50%;
+    background-color: rgb(192, 143, 19);
+    font-size: 1.25em;
+    height: 50px; width: 150px;
+}
+header{
+    background-color: rgb(188, 175, 156);
+}
